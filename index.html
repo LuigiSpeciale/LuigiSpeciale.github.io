@@ -52,6 +52,19 @@
     }
     .articolo {
       margin-top: 25px;
+      display: flex;
+      gap: 15px;
+      align-items: flex-start;
+    }
+    .articolo img {
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+      border-radius: 8px;
+      flex-shrink: 0;
+    }
+    .articolo-testo {
+      flex: 1;
     }
     .articolo a {
       color: #9333EA;
@@ -79,53 +92,75 @@
     <h2>Articoli recenti</h2>
 
     <div class="articolo">
-      <a href="https://luigispeciale.substack.com/p/la-felicita-e-una-sfogliatella">La felicità è una sfogliatella</a>
-      <p>Muovendo dai 250 anni della Dichiarazione d'Indipendenza americana e dalla parola felicità che vi comparve al posto della più prevedibile proprietà, l'articolo ricostruisce la genealogia napoletana di quel diritto, passando per una scena della serie Filangieri è tornato in cui il giurista napoletano del Settecento si ritrova in videochiamata con Benjamin Franklin.</p>
+      <div class="articolo-testo">
+        <a href="https://luigispeciale.substack.com/p/la-felicita-e-una-sfogliatella">La felicità è una sfogliatella</a>
+        <p>Muovendo dai 250 anni della Dichiarazione d'Indipendenza americana e dalla parola felicità che vi comparve al posto della più prevedibile proprietà, l'articolo ricostruisce la genealogia napoletana di quel diritto, passando per una scena della serie Filangieri è tornato in cui il giurista napoletano del Settecento si ritrova in videochiamata con Benjamin Franklin.</p>
+      </div>
     </div>
 
     <div class="articolo">
-      <a href="https://luigispeciale.substack.com/p/il-giornalismo-organico-che-avvelena">Il giornalismo organico che avvelena il dibattito pubblico</a>
-      <p>Il tratto distintivo del giornalismo organico non è la falsità dei singoli dati ma l'orientamento sistematico con cui vengono selezionati e nominati, per condurre il lettore verso conclusioni che servono interessi non dichiarati. Più difficile da smontare del giornalismo apertamente falso, proprio perché offre appigli reali.</p>
+      <div class="articolo-testo">
+        <a href="https://luigispeciale.substack.com/p/il-giornalismo-organico-che-avvelena">Il giornalismo organico che avvelena il dibattito pubblico</a>
+        <p>Il tratto distintivo del giornalismo organico non è la falsità dei singoli dati ma l'orientamento sistematico con cui vengono selezionati e nominati, per condurre il lettore verso conclusioni che servono interessi non dichiarati. Più difficile da smontare del giornalismo apertamente falso, proprio perché offre appigli reali.</p>
+      </div>
     </div>
 
     <div class="articolo">
-      <a href="https://luigispeciale.substack.com/p/generale-roberto-vannacci-il-sovversivo">Generale Roberto Vannacci, il sovversivo</a>
-      <p>A partire dal titolo con cui Repubblica ha annunciato il sorpasso di Fn sulla Lega, l'articolo ricostruisce la catena di eventi che nessuno racconta, dentro un meccanismo di autoconservazione simmetrica che attraversa maggioranza e opposizione con la stessa continuità con cui attraversa ENI, Quirinale e Comitato Militare NATO.</p>
+      <img src="https://substackcdn.com/image/fetch/$s_!rNIN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0d6b993-e9ab-4130-9a39-6d2f6bc4bbe9_690x504.jpeg" alt="">
+      <div class="articolo-testo">
+        <a href="https://luigispeciale.substack.com/p/generale-roberto-vannacci-il-sovversivo">Generale Roberto Vannacci, il sovversivo</a>
+        <p>A partire dal titolo con cui Repubblica ha annunciato il sorpasso di Fn sulla Lega, l'articolo ricostruisce la catena di eventi che nessuno racconta, dentro un meccanismo di autoconservazione simmetrica che attraversa maggioranza e opposizione con la stessa continuità con cui attraversa ENI, Quirinale e Comitato Militare NATO.</p>
+      </div>
     </div>
 
     <div class="articolo">
-      <a href="https://luigispeciale.substack.com/p/lillusione-della-chiarezza-e-il-diritto">L'illusione della chiarezza e il diritto alla complessità</a>
-      <p>Riprendendo il concetto di Leerstellen, gli spazi vuoti che ogni opera lascia deliberatamente aperti come invito alla cooperazione del lettore, l'articolo analizza cosa accade quando questa disponibilità viene a mancare, e il vuoto viene colonizzato dal pregiudizio o dalla soddisfazione di trovare il difetto prima ancora di cercare il senso.</p>
+      <div class="articolo-testo">
+        <a href="https://luigispeciale.substack.com/p/lillusione-della-chiarezza-e-il-diritto">L'illusione della chiarezza e il diritto alla complessità</a>
+        <p>Riprendendo il concetto di Leerstellen, gli spazi vuoti che ogni opera lascia deliberatamente aperti come invito alla cooperazione del lettore, l'articolo analizza cosa accade quando questa disponibilità viene a mancare, e il vuoto viene colonizzato dal pregiudizio o dalla soddisfazione di trovare il difetto prima ancora di cercare il senso.</p>
+      </div>
     </div>
 
     <div class="articolo">
-      <a href="https://luigispeciale.substack.com/p/come-e-perche-si-diventa-napolide">Come e perché si diventa napòlide, la parabola di Erri De Luca</a>
-      <p>Dalla tassa reputazionale invisibile che ogni napoletano paga varcando i confini della propria città, un nodo che affonda nel 1799, l'indagine segue la parabola intellettuale di Erri De Luca fino alle sue recenti dichiarazioni su Gaza, lette come sintomo finale di una lunga fuga.</p>
+      <div class="articolo-testo">
+        <a href="https://luigispeciale.substack.com/p/come-e-perche-si-diventa-napolide">Come e perché si diventa napòlide, la parabola di Erri De Luca</a>
+        <p>Dalla tassa reputazionale invisibile che ogni napoletano paga varcando i confini della propria città, un nodo che affonda nel 1799, l'indagine segue la parabola intellettuale di Erri De Luca fino alle sue recenti dichiarazioni su Gaza, lette come sintomo finale di una lunga fuga.</p>
+      </div>
     </div>
 
     <div class="articolo">
-      <a href="https://luigispeciale.substack.com/p/erri-de-luca-e-il-fantasma-di-rabin">Erri De Luca e il fantasma di Rabin</a>
-      <p>Erri De Luca rivendica il proprio sionismo con la fierezza dell'isolato volontario che attraversa la sua figura pubblica da decenni, ma la definizione che ne offre coincide esattamente con la formula politica degli accordi di Oslo del 1993, il progetto per cui Yitzhak Rabin fu assassinato nel 1995.</p>
+      <div class="articolo-testo">
+        <a href="https://luigispeciale.substack.com/p/erri-de-luca-e-il-fantasma-di-rabin">Erri De Luca e il fantasma di Rabin</a>
+        <p>Erri De Luca rivendica il proprio sionismo con la fierezza dell'isolato volontario che attraversa la sua figura pubblica da decenni, ma la definizione che ne offre coincide esattamente con la formula politica degli accordi di Oslo del 1993, il progetto per cui Yitzhak Rabin fu assassinato nel 1995.</p>
+      </div>
     </div>
 
     <div class="articolo">
-      <a href="https://luigispeciale.substack.com/p/la-strega-il-gas-e-la-gramigna-di">La strega, il gas e la gramigna di Gramsci</a>
-      <p>Prendendo il caso Nessy Guerra come punto di partenza, l'articolo contesta l'errore concettuale di trattare il diritto egiziano come una deviazione da uno standard universale, quando è invece un sistema coerente con le proprie fonti, in cui la sharia è fonte normativa primaria integrata nel sistema positivo.</p>
+      <div class="articolo-testo">
+        <a href="https://luigispeciale.substack.com/p/la-strega-il-gas-e-la-gramigna-di">La strega, il gas e la gramigna di Gramsci</a>
+        <p>Prendendo il caso Nessy Guerra come punto di partenza, l'articolo contesta l'errore concettuale di trattare il diritto egiziano come una deviazione da uno standard universale, quando è invece un sistema coerente con le proprie fonti, in cui la sharia è fonte normativa primaria integrata nel sistema positivo.</p>
+      </div>
     </div>
 
     <div class="articolo">
-      <a href="https://luigispeciale.substack.com/p/myosotis">Myosotis</a>
-      <p>Sulla scia della patria multinazionale evocata da Cefis nel discorso di Modena del 1972, l'articolo analizza come il potere invisibile della P2 abbia trovato nel presente una forma aggiornata di controllo, non più imposta con la repressione ma disposta attraverso l'interazione.</p>
+      <div class="articolo-testo">
+        <a href="https://luigispeciale.substack.com/p/myosotis">Myosotis</a>
+        <p>Sulla scia della patria multinazionale evocata da Cefis nel discorso di Modena del 1972, l'articolo analizza come il potere invisibile della P2 abbia trovato nel presente una forma aggiornata di controllo, non più imposta con la repressione ma disposta attraverso l'interazione.</p>
+      </div>
     </div>
 
     <div class="articolo">
-      <a href="https://luigispeciale.substack.com/p/esecutivo-meloni-non-chiamateli-fascisti">Esecutivo Meloni: non chiamateli fascisti</a>
-      <p>Prendendo le mosse dall'ordinanza 122/2026 della Corte costituzionale sul caso Almasri, l'articolo ricostruisce il percorso fino al conflitto di attribuzione sollevato dalla maggioranza contro i magistrati, per mostrare come il filtro parlamentare si stia estendendo dall'atto di governo fino all'accertamento della sua copertura.</p>
+      <img src="https://substackcdn.com/image/fetch/$s_!Owc8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde558920-a1c6-42c7-86d3-487297eacc89_1024x1024.jpeg" alt="">
+      <div class="articolo-testo">
+        <a href="https://luigispeciale.substack.com/p/esecutivo-meloni-non-chiamateli-fascisti">Esecutivo Meloni: non chiamateli fascisti</a>
+        <p>Prendendo le mosse dall'ordinanza 122/2026 della Corte costituzionale sul caso Almasri, l'articolo ricostruisce il percorso fino al conflitto di attribuzione sollevato dalla maggioranza contro i magistrati, per mostrare come il filtro parlamentare si stia estendendo dall'atto di governo fino all'accertamento della sua copertura.</p>
+      </div>
     </div>
 
     <div class="articolo">
-      <a href="https://luigispeciale.substack.com/p/i-borbone-e-la-camorra-il-patto-scellerato">I Borbone e la Camorra: il patto scellerato che forgiò il crimine organizzato</a>
-      <p>Nato dall'osservazione di una diffusa fascinazione verso i Borbone, celebrati come autori di una presunta età dell'oro meridionale, l'articolo costruisce un promemoria storico contro quella narrazione, per non abbassare la guardia sul processo di normalizzazione del malaffare che a quel mito si accompagna.</p>
+      <div class="articolo-testo">
+        <a href="https://luigispeciale.substack.com/p/i-borbone-e-la-camorra-il-patto-scellerato">I Borbone e la Camorra: il patto scellerato che forgiò il crimine organizzato</a>
+        <p>Nato dall'osservazione di una diffusa fascinazione verso i Borbone, celebrati come autori di una presunta età dell'oro meridionale, l'articolo costruisce un promemoria storico contro quella narrazione, per non abbassare la guardia sul processo di normalizzazione del malaffare che a quel mito si accompagna.</p>
+      </div>
     </div>
 
   </section>

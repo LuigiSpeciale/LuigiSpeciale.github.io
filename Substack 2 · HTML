@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Archivio Substack | Luigi Speciale</title>
+  <meta name="description" content="Archivio completo degli articoli pubblicati su Substack da Luigi Speciale.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: Georgia, serif;
+      max-width: 700px;
+      margin: 60px auto;
+      padding: 0 20px;
+      background-color: #F7F5F0;
+      color: #222;
+    }
+    h1 {
+      font-family: 'Instrument Serif', serif;
+      font-size: 2.4rem;
+      margin-bottom: 0;
+      text-align: center;
+      color: #222;
+    }
+    .torna-home {
+      display: block;
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .torna-home a {
+      color: #8B0000;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+    .articolo {
+      margin-top: 25px;
+      display: flex;
+      gap: 15px;
+      align-items: flex-start;
+    }
+    .articolo img {
+      width: 90px;
+      height: 90px;
+      object-fit: cover;
+      border-radius: 8px;
+      flex-shrink: 0;
+    }
+    .articolo-testo {
+      flex: 1;
+    }
+    .articolo a {
+      color: #8B0000;
+      font-size: 1.1rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .articolo p {
+      color: #444;
+      font-size: 0.95rem;
+      margin-top: 4px;
+    }
+    .articolo .data {
+      color: #999;
+      font-size: 0.8rem;
+      display: block;
+      margin-top: 2px;
+    }
+    .paginazione {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 50px;
+      font-size: 0.95rem;
+    }
+    .paginazione a {
+      color: #8B0000;
+      text-decoration: none;
+    }
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      color: #999;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Archivio Substack</h1>
+  <p class="torna-home"><a href="index.html">&larr; Torna alla home</a> &nbsp;|&nbsp; <a href="archivio.html">Archivio il Picchio</a></p>
+
+  <div class="articolo">
+    <img src="https://substackcdn.com/image/fetch/$s_!rQ5T!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1de3899f-0a4e-4128-83f9-ecddf6224608_572x429.jpeg" alt="">
+    <div class="articolo-testo">
+    <a href="https://luigispeciale.substack.com/p/il-pacco-natalizio-consegnato-dal">Il pacco natalizio consegnato dal Corriere -della sera-</a>
+    <span class="data">27 dicembre 2025</span>
+    <p>Confrontando i ventuno giorni di detenzione di Cecilia Sala in Iran con gli oltre tremila giorni senza verità per Giulio Regeni in Egitto, l'analisi individua nella struttura degli interessi economici e strategici la variabile che decide chi viene salvato e chi no.</p>
+    </div>
+  </div>
+
+  <div class="articolo">
+    <img src="https://substackcdn.com/image/fetch/$s_!zfh_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5416c8b1-0318-4861-9e79-cf46a6cf7f03_565x353.jpeg" alt="">
+    <div class="articolo-testo">
+    <a href="https://luigispeciale.substack.com/p/giggino-di-maio-lo-stato-gassoso">Giggino Di Maio, lo Stato gassoso</a>
+    <span class="data">13 dicembre 2025</span>
+    <p>Prendendo spunto dall'elogio pubblico di Di Maio a Giorgia Meloni ad Atreju, l'analisi ricostruisce la sua parabola politica come progressiva evaporazione della sostanza più che come tradimento, dal Movimento 5 Stelle dell'uno vale uno fino all'incarico europeo.</p>
+    </div>
+  </div>
+
+  <div class="articolo">
+    <img src="https://substackcdn.com/image/fetch/$s_!Ft1f!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1632edb-b318-4091-afbd-ac121d6e96eb_1122x560.jpeg" alt="">
+    <div class="articolo-testo">
+    <a href="https://luigispeciale.substack.com/p/rapporto-petras-la-profezia-sulla">Rapporto Petras, la profezia sulla rovina generazionale</a>
+    <span class="data">12 dicembre 2025</span>
+    <p>Recuperando lo studio che il sociologo James Petras condusse nel 1995 su incarico del governo spagnolo, l'analisi ripercorre la diagnosi precoce degli effetti delle politiche neoliberiste sul tessuto sociale, un rapporto archiviato alla Moncloa mentre i suoi effetti si manifestano oggi.</p>
+    </div>
+  </div>
+
+  <div class="articolo">
+    <img src="https://substackcdn.com/image/fetch/$s_!6JJt!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fad1fe50b-10ca-414a-9c4e-c7552a850654_800x600.jpeg" alt="">
+    <div class="articolo-testo">
+    <a href="https://luigispeciale.substack.com/p/le-morti-sul-lavoro-non-indignano">Le morti sul lavoro non indignano più</a>
+    <span class="data">12 dicembre 2025</span>
+    <p>L'Italia, formalmente fondata sul lavoro, continua a tollerare che il lavoro uccida, purché non intralci la fluidità degli appalti, sostiene l'analisi, che affronta la normalizzazione degli infortuni mortali nel sistema degli appalti italiano.</p>
+    </div>
+  </div>
+
+  <div class="articolo">
+    <img src="https://substackcdn.com/image/fetch/$s_!V2DH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe0bc367-ae57-45dd-82db-bec5e4ce98db_800x445.jpeg" alt="">
+    <div class="articolo-testo">
+    <a href="https://luigispeciale.substack.com/p/anatomia-di-uninsinuazione-giornalistica">Anatomia di un'insinuazione giornalistica: il caso Sfaradi-Porro</a>
+    <span class="data">10 dicembre 2025</span>
+    <p>A partire da un articolo che giustappone eventi senza nesso causale, l'analisi smonta la tecnica della domanda retorica come strumento per diffamare senza assumersi responsabilità probatoria, attribuendo al direttore una responsabilità editoriale diretta.</p>
+    </div>
+  </div>
+
+  <div class="articolo">
+    <img src="https://substackcdn.com/image/fetch/$s_!w1je!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a75415c-0ee8-436e-9fee-23982252b7c3_2400x1600.jpeg" alt="">
+    <div class="articolo-testo">
+    <a href="https://luigispeciale.substack.com/p/questi-palestinesi-a-onor-del-vero">Questi Palestinesi, a onor del vero</a>
+    <span class="data">9 dicembre 2025</span>
+    <p>Come il popolo palestinese sia diventato categoria astratta, l'assurdo elevato a sistema, argomenta l'analisi, che affronta il processo di astrazione retorica attraverso cui la condizione palestinese viene svuotata di concretezza nel dibattito pubblico.</p>
+    </div>
+  </div>
+
+  <div class="articolo">
+    <img src="https://substackcdn.com/image/fetch/$s_!DeD4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ec62723-b51a-40ec-9c38-d7fe726e3257_640x360.jpeg" alt="">
+    <div class="articolo-testo">
+    <a href="https://luigispeciale.substack.com/p/grecia-il-modello-della-subordinazione">Grecia, ingegneria sociale e subordinazione del lavoro nell'Europa del debito</a>
+    <span class="data">9 dicembre 2025</span>
+    <p>Analizzando la legge sulle tredici ore lavorative approvata ad Atene, l'analisi mostra come il debito sia diventato strumento di governo politico e sociale, dove la scelta apparente del lavoratore si converte in cooperazione alla propria subordinazione.</p>
+    </div>
+  </div>
+
+  <div class="articolo">
+    <img src="https://substackcdn.com/image/fetch/$s_!MW_S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdee1beab-77da-48d9-9757-e1aed82ea1a0_1200x630.jpeg" alt="">
+    <div class="articolo-testo">
+    <a href="https://luigispeciale.substack.com/p/maria-corina-machado-premio-nobel">Maria Corina Machado, premio Nobel per la pace</a>
+    <span class="data">9 dicembre 2025</span>
+    <p>Mentre a Oslo si celebra il Nobel per la Pace a Machado, al largo del Venezuela incrocia una flotta militare americana: l'analisi ricostruisce la sua firma sul decreto del golpe del 2002 contro Chávez e le guarimbas violente del 2014-2017, collocando il premio nella stessa sequenza di Iraq e Libia.</p>
+    </div>
+  </div>
+
+  <div class="articolo">
+    <img src="https://substackcdn.com/image/fetch/$s_!IAIO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F622b25ef-48b5-4409-bbbd-022b0430a5b0_1200x675.jpeg" alt="">
+    <div class="articolo-testo">
+    <a href="https://luigispeciale.substack.com/p/da-cefis-a-rutte-e-la-profezia-de">Da Cefis a Rutte e la profezia de Il Merda</a>
+    <span class="data">9 dicembre 2025</span>
+    <p>Confrontando il discorso apocalittico di Mark Rutte al Forum NATO con la celebre frase di Eugenio Cefis del 1972 sulla patria multinazionale, l'analisi riprende la profezia de "Il Merda" di Pasolini per sostenere che non sia cambiata la natura del potere ma quella della società.</p>
+    </div>
+  </div>
+
+  <div class="articolo">
+    <div class="articolo-testo">
+    <a href="https://luigispeciale.substack.com/p/governo-italiano-in-carica-paradosso">Governo Italiano in carica, paradosso sovranista</a>
+    <span class="data">8 dicembre 2025</span>
+    <p>Documentando come Giorgetti al MEF e Crosetto alla Difesa incarnino continuità con l'establishment atlantico mentre la retorica sovranista resta intatta, l'analisi formula l'ipotesi di uno scambio implicito tra allineamento su economia e spazio per smantellare i contrappesi costituzionali.</p>
+    </div>
+  </div>
+
+  <div class="articolo">
+    <img src="https://substackcdn.com/image/fetch/$s_!TzO8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac4838dc-fbfa-4f0b-92e3-cd09a7195b11_1536x1024.jpeg" alt="">
+    <div class="articolo-testo">
+    <a href="https://luigispeciale.substack.com/p/napoli-2025-la-maggioranza-degli">Napoli 2025, la maggioranza degli intellettuali è a corte</a>
+    <span class="data">8 dicembre 2025</span>
+    <p>Si ripete con crescente insistenza che gli intellettuali sono scomparsi, osserva l'analisi, che al contrario ne rintraccia la presenza, ma schierata in massima parte al servizio del potere costituito piuttosto che nella funzione critica.</p>
+    </div>
+  </div>
+
+  <div class="articolo">
+    <img src="https://substackcdn.com/image/fetch/$s_!HFWz!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F952eaeb1-ee6e-43d0-9e2a-ca093e9ac10f_1000x562.jpeg" alt="">
+    <div class="articolo-testo">
+    <a href="https://luigispeciale.substack.com/p/commissione-europea-il-potere-che">Commissione europea: il potere che sfida la legge</a>
+    <span class="data">8 dicembre 2025</span>
+    <p>Dal fermo di Federica Mogherini per frode negli appalti al mistero degli SMS spariti di von der Leyen, fino al tentativo di requisire asset russi congelati, l'analisi mostra come la Commissione europea agisca con margini di discrezionalità sottratti a responsabilità democratica diretta.</p>
+    </div>
+  </div>
+
+  <div class="articolo">
+    <img src="https://substackcdn.com/image/fetch/$s_!gKC9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f0fa8e9-3d7e-4624-ba0d-1e80dfca6064_1280x720.webp" alt="">
+    <div class="articolo-testo">
+    <a href="https://luigispeciale.substack.com/p/se-nel-2025-si-decorano-i-complici">Se nel 2025 si decorano i complici dell'olocausto, qualcosa è andato storto</a>
+    <span class="data">8 dicembre 2025</span>
+    <p>Il sindaco europeista di Bucarest ha decorato un veterano che combatté per il regime romeno responsabile dello sterminio autonomo di fino a 380.000 ebrei, un atto passato nel silenzio delle istituzioni europee, letto come tendenza strutturale che rende negoziabile la memoria dell'Olocausto.</p>
+    </div>
+  </div>
+
+  <div class="paginazione">
+    <a href="substack-1.html">&larr; Articoli più recenti</a>
+    <span></span>
+  </div>
+
+  <footer>© 2026 Luigi Speciale. Tutti i diritti riservati.</footer>
+
+</body>
+</html>
